@@ -105,7 +105,7 @@ export const leadership: Member[] = [
 
 export const committees: Member[] = [
   {
-    id: 'sabrah',
+    id: 'sabrah', //  who read the code, Thats mee here XD
     nameAr: 'محمد سعيد سبرة',
     nameEn: 'Mohammed Sabrah',
     roleAr: 'لجنة البحث والتطوير التقني',
